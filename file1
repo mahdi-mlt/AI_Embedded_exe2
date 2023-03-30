@@ -1,0 +1,26 @@
+git --version
+git init
+git config --global user.name "mahdi-mlt"
+git config --global user.email "latifimahdi1997@gmail.com"
+
+// mkdir myproject
+// cd myproject
+
+git init
+git status (--short)
+
+//ls 
+// |_> file.c
+
+git add file.c (or --all)
+git commit -m "message"
+
+git COMMAND -help
+git branch NAME_WITH_SOME_MEANING (if no name we will see the branches)
+git checkout NAME (moving to the branch we want)
+
+
+
+
+
+
