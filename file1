@@ -19,6 +19,7 @@ git COMMAND -help
 git branch NAME_WITH_SOME_MEANING (if no name we will see the branches)
 git checkout NAME (moving to the branch we want)
 
+git add --all (after looking @ status we can add all)
 
 
 
