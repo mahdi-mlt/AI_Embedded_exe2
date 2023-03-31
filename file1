@@ -22,6 +22,29 @@ git checkout NAME (moving to the branch we want)
 git add --all (after looking @ status we can add all)
 
 
+git merge NAME (go on master and merge it with the branch we want)
+git branch -d NAME ( delete the branch which we dont need any more )
+
+git log
+
+git remote add origin https://github.com/mahdi-mlt/AI_Embedded_exe2.git (URL ex.)
+
+token created for password : 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
+
+git config -l
+
+git push -u origin master
+
+git fetch origin ( fetch gets all the change history of a tracked branch/repo.)
+git status
+git log origin/master
+git diff origin/master
+git merge origin/master
+
+
+git pull origin (combination of fetch and merge)
+
+
 
 
 
